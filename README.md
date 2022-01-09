@@ -1,7 +1,7 @@
-# Robust Bi-Directional Pressure Probe with Arduino-based Measuring Unit
+# Robust Bi-Directional Velocity Probe with Arduino-based Measuring Unit
 ![BDVP](https://github.com/majaczech/BDVP/blob/d3e29dd47af849f82d369731aed116efc650521c/Images/PP-abstract.jpg)
 
-This project describes manufacturing of robust bi-directional pressure probes and building measuring unit for fire engineering application.
+This project describes manufacturing of robust bi-directional velocity probes (BDVP) and building measuring unit for fire engineering application.
 
 This source describes Open Hardware and is licensed under the CERN-OHL-S v2
 
